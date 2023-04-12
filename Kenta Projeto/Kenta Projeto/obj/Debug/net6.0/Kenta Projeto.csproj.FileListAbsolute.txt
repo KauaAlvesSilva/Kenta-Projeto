@@ -1,0 +1,19 @@
+C:\Users\Kauã Alves\source\repos\Kenta Projeto\Kenta Projeto\bin\Debug\net6.0\Kenta Projeto.exe
+C:\Users\Kauã Alves\source\repos\Kenta Projeto\Kenta Projeto\bin\Debug\net6.0\Kenta Projeto.deps.json
+C:\Users\Kauã Alves\source\repos\Kenta Projeto\Kenta Projeto\bin\Debug\net6.0\Kenta Projeto.runtimeconfig.json
+C:\Users\Kauã Alves\source\repos\Kenta Projeto\Kenta Projeto\bin\Debug\net6.0\Kenta Projeto.dll
+C:\Users\Kauã Alves\source\repos\Kenta Projeto\Kenta Projeto\bin\Debug\net6.0\Kenta Projeto.pdb
+C:\Users\Kauã Alves\source\repos\Kenta Projeto\Kenta Projeto\obj\Debug\net6.0\Kenta Projeto.csproj.AssemblyReference.cache
+C:\Users\Kauã Alves\source\repos\Kenta Projeto\Kenta Projeto\obj\Debug\net6.0\Kenta Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kauã Alves\source\repos\Kenta Projeto\Kenta Projeto\obj\Debug\net6.0\Kenta Projeto.AssemblyInfoInputs.cache
+C:\Users\Kauã Alves\source\repos\Kenta Projeto\Kenta Projeto\obj\Debug\net6.0\Kenta Projeto.AssemblyInfo.cs
+C:\Users\Kauã Alves\source\repos\Kenta Projeto\Kenta Projeto\obj\Debug\net6.0\Kenta Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Kauã Alves\source\repos\Kenta Projeto\Kenta Projeto\obj\Debug\net6.0\Kenta Projeto.dll
+C:\Users\Kauã Alves\source\repos\Kenta Projeto\Kenta Projeto\obj\Debug\net6.0\refint\Kenta Projeto.dll
+C:\Users\Kauã Alves\source\repos\Kenta Projeto\Kenta Projeto\obj\Debug\net6.0\Kenta Projeto.pdb
+C:\Users\Kauã Alves\source\repos\Kenta Projeto\Kenta Projeto\obj\Debug\net6.0\Kenta Projeto.genruntimeconfig.cache
+C:\Users\Kauã Alves\source\repos\Kenta Projeto\Kenta Projeto\obj\Debug\net6.0\ref\Kenta Projeto.dll
+C:\Users\Kauã Alves\source\repos\Kenta Projeto\Kenta Projeto\bin\Debug\net6.0\Antlr3.Runtime.dll
+C:\Users\Kauã Alves\source\repos\Kenta Projeto\Kenta Projeto\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Kauã Alves\source\repos\Kenta Projeto\Kenta Projeto\bin\Debug\net6.0\WebGrease.dll
+C:\Users\Kauã Alves\source\repos\Kenta Projeto\Kenta Projeto\obj\Debug\net6.0\Kenta Projeto.csproj.CopyComplete
